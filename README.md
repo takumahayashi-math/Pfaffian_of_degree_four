@@ -1,4 +1,4 @@
-We give a formula for the degree-four Pfaffian using a Jordan algebra structure on so(8).
+We give a formula for degree-four Pfaffian using a Jordan algebra structure on so(8).
 
 Let 
 J₁ = [[0,-1], [1,0]]
@@ -16,4 +16,4 @@ and
 We verify that
     (1/24)(trd(x)^4 − 6 trd(x)^2 ⟨x,x⟩ + 3⟨x,x⟩^2
            + 8 trd(x)⟨x·x, x⟩ − 6⟨x·x, x·x⟩)
-is equal to the Pfaffian of x.
+is equal to Pfaffian of x.
